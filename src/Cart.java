@@ -13,8 +13,4 @@ public class Cart {
     public void setClientProducts(ClientProduct[] clientProducts) {
         this.clientProducts = clientProducts;
     }
-
-
-
-
 }
